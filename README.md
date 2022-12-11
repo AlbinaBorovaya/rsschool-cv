@@ -1,1 +1,2 @@
-https://AlbinaBorovaya.github.io/rsschool-cv/cv
+# rsschool-cv
+https://AlbinaBorovaya.github.io/rsschool-cv/

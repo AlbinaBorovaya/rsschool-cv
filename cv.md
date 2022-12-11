@@ -6,13 +6,13 @@
 * Telegram: albina_borovaya
 * GitHub: AlbinaBorovaya
 
- # About Me
+ ### About Me
  I am 17 years old, I am a 1st year student of BNTU. I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
- # Education
- Belarusian National Technical University\
+ ### Education
+ Belarusian National Technical University
  * information systems and technologies
- # Languages
+ ### Languages
 
  * Russian - native speaker.
  * English - A2 
